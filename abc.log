@@ -1,0 +1,18 @@
+2015-05-05 00:02:40 INFO  GmailLogin:20 - Reading file starts now
+2015-05-10 12:32:46 ERROR DPLearning:72 - Unable to find FileInput Streamjava.io.FileNotFoundException: C:\workspace\SeleniumLearning\target\test-classes (Access is denied)
+2015-05-11 00:01:58 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:01:58 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:01:59 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:04:19 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:05:36 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:08:27 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:10:48 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:11:31 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:11:31 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:14:40 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:23:45 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:23:45 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:23:49 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:23:49 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:23:50 INFO  PropertryReader:13 - Property reading starts here
+2015-05-11 00:23:51 INFO  PropertryReader:13 - Property reading starts here
